@@ -8,7 +8,7 @@ class Client(API):
     """
 
     def __init__(self, proxies=None, timeout=None, retry=None):
-        API.__init__(self, url='https://api.weibo.com/2/', proxies=proxies,
+        API.__init__(self, url='https://c.api.weibo.com/2/', proxies=proxies,
                      timeout=timeout, retry=retry)
 
     def get(self, url, **kwargs):
