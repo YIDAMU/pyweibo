@@ -5,7 +5,8 @@
 ![License](https://img.shields.io/pypi/l/pyweibo)
 ![Status](https://img.shields.io/pypi/status/pyweibo)
 
-Python SDK for Weibo API.
+for Weibo *Business API* only *Python3*
+Business API (https://open.weibo.com/development/businessdata)
 
 [中文文档](https://github.com/Thesharing/pyweibo/blob/master/README-zh.md)
 
