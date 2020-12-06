@@ -5,8 +5,11 @@
 ![License](https://img.shields.io/pypi/l/pyweibo)
 ![Status](https://img.shields.io/pypi/status/pyweibo)
 
-for Weibo *Business API* only *Python3*
+for Weibo *Business API* only 
+
 Business API (https://open.weibo.com/development/businessdata)
+
+*Python3
 
 [中文文档](https://github.com/Thesharing/pyweibo/blob/master/README-zh.md)
 
